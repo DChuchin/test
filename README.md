@@ -123,3 +123,6 @@
 Допускается использование jQuery или других js-библиотек.
 
 Работу лучше присылать ссылкой на [GitHub](https://github.com/)([GitLab](https://gitlab.com/)/[Bitbucket](https://bitbucket.org/)).
+
+
+## Если есть вопросы по тестовому можно писать в *issues* или напрямую [Дмитрию](mailto:dmitry.chuchin@gmail.com)
