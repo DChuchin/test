@@ -125,4 +125,4 @@
 Работу лучше присылать ссылкой на [GitHub](https://github.com/)([GitLab](https://gitlab.com/)/[Bitbucket](https://bitbucket.org/)).
 
 
-## Если есть вопросы по тестовому можно писать в *issues* или напрямую [Дмитрию](mailto:dmitry.chuchin@gmail.com)
+## Если есть вопросы по тестовому можно писать в [*issues*](https://github.com/ADCI/frontend-junior-initial-task/issues) или напрямую [Дмитрию](mailto:dmitry.chuchin@gmail.com)
